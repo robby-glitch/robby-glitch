@@ -1,6 +1,6 @@
 # Hello World! I'm @robby-glitch 👋
 
-## Former corporate professional turned freelance developer exploring the AI frontier
+"## Breaking free from cubicle life to chase AI dreams and code without boundaries"
 
 - 👀 I'm interested in artificial intelligence, open source development, and building accessible tools that solve real problems
 - 🌱 I'm currently learning machine learning frameworks, LLM fine-tuning, and expanding my full-stack development skills
