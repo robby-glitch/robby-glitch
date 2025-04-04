@@ -1,4 +1,4 @@
-# Hello World! I'm @robby-glitch 👋
+"# Debugging Life One Day at a Time – Hey, I'm @robby-glitch 👋"
 
 "## Breaking free from cubicle life to chase AI dreams and code without boundaries"
 
